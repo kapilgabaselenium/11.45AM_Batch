@@ -9,6 +9,7 @@ public class Class1 {
 	public void tc()
 	{
 		System.out.println("Class1");
+		System.out.println("changes done");
 	}
 	
 }
